@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/venom_Team1"><img src="https://telegra.ph/file/e3014546acdcc2a124448.png" width="300"></a></p>
 <p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+    <a href="https://t.me//SHUBHI8X" alt="made-with-python"> <img src="https://te.legra.ph/file/533a910b5ec006dbd492b.jpg" /></a>
 
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
@@ -43,8 +43,7 @@
 - **ᴄᴏᴏʟ ꜱᴛᴀʀᴛꜱ ᴘʟᴜɴɢɪɴꜱ**
 - **ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ ᴇᴀꜱɪʟʏ**
 
-## 🔎 https://te.legra.ph/file/533a910b5ec006dbd492b.jpg
-
+## 🔎 NAVYA ALLWAYES OP BAKI SB TOPI
 ### Deploy To Railway
 
 [![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/VENOM-MUSIC&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
