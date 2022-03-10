@@ -1,6 +1,6 @@
-<h2 align="centre"> lucy ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> kajal ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 
-### ᒪᑌᑕY 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
+### KAJAL 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
 <p align="center"><a href="https://t.me/venom_Team1"><img src="https://telegra.ph/file/e3014546acdcc2a124448.png" width="300"></a></p>
 <p align="center">
@@ -16,14 +16,14 @@
 
 🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@venomstring_bot](https://t.me/venomstring_bot)
+[@venomstring_bot](https://t.me/lgcy_string_robot)
 
 
 
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/V3N0M_0P/38)
+[CLICK HERE](https://t.me/allf_ban) 
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
@@ -53,5 +53,5 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/V3NOM_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/V3N0M_0P"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/allf_ban"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/clan8xofficial"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
