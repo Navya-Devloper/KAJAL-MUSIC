@@ -1,10 +1,10 @@
-<h2 align="centre"> KAJAL ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> NAVYA ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 
-### KAJAL 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
+### NAVYA 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
 <p align="center"><a href="https://t.me/Allf_ban"><img src="https://te.legra.ph/file/207e98f8900efae81d4e6.jpg" width="300"></a></p>
 <p align="center">
-    <a href="https://t.me//SHUBHI8X" alt="made-with-python"> <img src="https://te.legra.ph/file/533a910b5ec006dbd492b.jpg" /></a>
+    <a href="https://t.me//SHUBHI8X" alt="made-with-python"> <img src="https://te.legra.ph/file/aca6ac2406f5fdbd24ed2.jpg" /></a>
 
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
