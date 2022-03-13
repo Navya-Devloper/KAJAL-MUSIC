@@ -19,7 +19,7 @@
 [@lgcy_string_bot](https://t.me/lgcy_string_robot)
 
 
-<a href="https://t.me/NAVYA_DICUSE"><img src="https://te.legra.ph/file/98d7621f2df18a94f8c69.jpg">
+<a href="https://t.me/NAVYA_DISCUSE"><img src="https://te.legra.ph/file/98d7621f2df18a94f8c69.jpg">
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
