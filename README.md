@@ -2,7 +2,7 @@
 
 ### NAVYA 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/Allf_ban"><img src="https://te.legra.ph/file/207e98f8900efae81d4e6.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/NAVYA_OP"><img src="https://te.legra.ph/file/14e90ca6bf62514843d38.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://t.me//SHUBHI8X" alt="made-with-python"> <img src="https://te.legra.ph/file/aca6ac2406f5fdbd24ed2.jpg" /></a>
 
