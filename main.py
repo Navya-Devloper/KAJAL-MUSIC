@@ -21,8 +21,8 @@ Client(
 ).start()
 
 
-print(f"[INFO]: LUCY STARTED AS {BOT_NAME}!")
-print(f"[INFO]: LUCY ASSISTANT STARTED AS {ASSNAME}!")
+print(f"[INFO]: LGCY STARTED AS {BOT_NAME}!")
+print(f"[INFO]: LUGY ASSISTANT STARTED AS {ASSNAME}!")
 
 
 
@@ -53,7 +53,7 @@ async def load_start():
             pass     
     await app.send_message(LOG_GROUP_ID, "Music Bot Started")
     await client.send_message(LOG_GROUP_ID, "Assistant Of Navya Music Started")
-    print("[INFO]: STARTED THE LUCY BOT AND SENDING THE INFO TO NAVYA SERVER")
+    print("[INFO]: STARTED THE LGCY BOT AND SENDING THE INFO TO NAVYA SERVER")
     
    
 loop = asyncio.get_event_loop()
