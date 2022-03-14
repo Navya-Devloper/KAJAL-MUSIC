@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**A Telegram Music Bot Based Mongodb.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
-Powered By [LUCY BOTS](t.me/LUCYHELP) ...
+Powered By [LUCY BOTS](t.me/LGCYHELP) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -50,18 +50,18 @@ Powered By [LUCY BOTS](t.me/LUCYHELP) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/LUCYHELP"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/LGCYHELP"
                     ),
                     InlineKeyboardButton(
-                        "LUCY", url="https://t.me/LUCY_MANAGER2_bot"
+                        "LUCY", url="https://t.me/LGCY_MANAGER2_bot"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url=f"https://t.me/THANOSOWNER"
+                        "CHANNEL", url=f"https://t.me/NAVYA_OP"
                     ),
                     InlineKeyboardButton(
-                        "SUPPORT", url=f"https://t.me/LUCYHELP"
+                        "SUPPORT", url=f"https://t.me/LGCYHELP"
                     )
                 ]
                 
@@ -79,7 +79,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/Lucyhelp")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/Lgcyhelp")
                 ]
             ]
         ),
@@ -90,12 +90,12 @@ async def start(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/59596f593dce576523df8.jpg",
-        caption=f"""LUCY Source Code IS PRIVATE """,
+        caption=f"""LGCY Source Code IS PRIVATE """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "RISHABH", url=f"https://t.me/Mafiarishabh")
+                        "NAVYA", url=f"https://t.me/NAVYA_OP")
                 ]
             ]
         ),
