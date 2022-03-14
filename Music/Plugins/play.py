@@ -122,7 +122,7 @@ async def play(_, message: Message):
     if audio:
         fucksemx = 1
         what = "Audio Searched"
-        mystic = await message.reply_text(f"**🔄 LUCY Processing Audio Given By {username}**")
+        mystic = await message.reply_text(f"**🔄 Navya Processing Audio Given By {username}**")
         if audio.file_size > 157286400:
             await mystic.edit_text("❌ Audio File Size Should Be Less Than 150 mb") 
             return
@@ -147,7 +147,7 @@ async def play(_, message: Message):
             else file_name,
         )
         title = "Selected Audio from Telegram"
-        link = "https://t.me/Timesisnotwaiting"
+        link = "https://t.me/ALLF_BAN"
         thumb = "cache/audioplay.jpg"
         videoid = "smex1"
     elif url:
