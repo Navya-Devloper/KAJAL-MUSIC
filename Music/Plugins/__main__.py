@@ -1,3 +1,3 @@
-## © Zaid Vc Player https://github.com/Itsunknown-12/Zaid-Vc-Player
+## © NavyA Vc Player https://github.com/Itsunknown-12/NavyA-Vc-Player
 
-## @Superior_bots
+## @NAvyA_bots
