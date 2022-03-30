@@ -42,6 +42,9 @@
 - **ᴀɪ**
 - **ᴄᴏᴏʟ ꜱᴛᴀʀᴛꜱ ᴘʟᴜɴɢɪɴꜱ**
 - **ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ ᴇᴀꜱɪʟʏ**
+    
+ ### Heroku (Don't Complain)
+<p><a href="https://heroku.com/deploy?template=https://github.com/Navya-Developer/KAJAL-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## 🔎 NAVYA ALLWAYES OP BAKI SB TOPI
 ### Deploy To Railway
