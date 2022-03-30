@@ -44,6 +44,10 @@
 - **ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ ᴇᴀꜱɪʟʏ**
 
 ## 🔎 NAVYA ALLWAYES OP BAKI SB TOPI
+    
+    ### Heroku (Don't Complain)
+<p><a href="https://heroku.com/deploy?template=https://github.com/Navya-Developer/KAJAL-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+    
 ### Deploy To Railway
 
 [![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/VENOM-MUSIC&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
